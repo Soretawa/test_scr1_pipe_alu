@@ -1,0 +1,27 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1708269993" />
+    <testcase name="test1" classname="testbench" file="/home/user/test/testbench.py" lineno="8" time="0.0008187294006347656" sim_time_ns="10.001" ratio_time="12215.26916249272" />
+    <testcase name="test2" classname="testbench" file="/home/user/test/testbench.py" lineno="26" time="0.0003681182861328125" sim_time_ns="10.001" ratio_time="27167.897865284973" />
+    <testcase name="test3" classname="testbench" file="/home/user/test/testbench.py" lineno="44" time="0.00034928321838378906" sim_time_ns="10.001000000000001" ratio_time="28632.924439590446" />
+    <testcase name="test4" classname="testbench" file="/home/user/test/testbench.py" lineno="62" time="0.00036263465881347656" sim_time_ns="10.000999999999998" ratio_time="27578.720778435232" />
+    <testcase name="test5" classname="testbench" file="/home/user/test/testbench.py" lineno="80" time="0.00034618377685546875" sim_time_ns="10.001000000000005" ratio_time="28889.279823691475" />
+    <testcase name="test6" classname="testbench" file="/home/user/test/testbench.py" lineno="98" time="0.00033545494079589844" sim_time_ns="10.000999999999998" ratio_time="29813.243997157064" />
+    <testcase name="test7" classname="testbench" file="/home/user/test/testbench.py" lineno="116" time="0.0004189014434814453" sim_time_ns="10.001000000000005" ratio_time="23874.35077063177" />
+    <testcase name="test8" classname="testbench" file="/home/user/test/testbench.py" lineno="134" time="0.00033593177795410156" sim_time_ns="10.00099999999999" ratio_time="29770.925694818994" />
+    <testcase name="test9" classname="testbench" file="/home/user/test/testbench.py" lineno="152" time="0.0003325939178466797" sim_time_ns="10.001000000000005" ratio_time="30069.702010035857" />
+    <testcase name="test10" classname="testbench" file="/home/user/test/testbench.py" lineno="170" time="0.0004105567932128906" sim_time_ns="10.001000000000005" ratio_time="24359.60180255518" />
+    <testcase name="test11" classname="testbench" file="/home/user/test/testbench.py" lineno="188" time="0.00033473968505859375" sim_time_ns="10.00099999999999" ratio_time="29876.94750997148" />
+    <testcase name="test12" classname="testbench" file="/home/user/test/testbench.py" lineno="206" time="0.00032520294189453125" sim_time_ns="10.001000000000005" ratio_time="30753.104328445763" />
+    <testcase name="test13" classname="testbench" file="/home/user/test/testbench.py" lineno="226" time="0.00032901763916015625" sim_time_ns="10.001000000000005" ratio_time="30396.546597101464" />
+    <testcase name="test14" classname="testbench" file="/home/user/test/testbench.py" lineno="244" time="0.0003285408020019531" sim_time_ns="10.001000000000005" ratio_time="30440.663500725703" />
+    <testcase name="test15" classname="testbench" file="/home/user/test/testbench.py" lineno="262" time="0.0004024505615234375" sim_time_ns="10.000999999999976" ratio_time="24850.257289099467" />
+    <testcase name="test16" classname="testbench" file="/home/user/test/testbench.py" lineno="280" time="0.0003533363342285156" sim_time_ns="10.001000000000005" ratio_time="28304.476588394074" />
+    <testcase name="test17" classname="testbench" file="/home/user/test/testbench.py" lineno="298" time="0.0003209114074707031" sim_time_ns="10.001000000000005" ratio_time="31164.364267459154" />
+    <testcase name="test18" classname="testbench" file="/home/user/test/testbench.py" lineno="316" time="0.00039768218994140625" sim_time_ns="10.001000000000005" ratio_time="25148.222004796175" />
+    <testcase name="test19" classname="testbench" file="/home/user/test/testbench.py" lineno="334" time="0.00047850608825683594" sim_time_ns="10.001000000000005" ratio_time="20900.465522670664" />
+    <testcase name="test20" classname="testbench" file="/home/user/test/testbench.py" lineno="352" time="0.0003905296325683594" sim_time_ns="10.001000000000005" ratio_time="25608.812151404163" />
+    <testcase name="test21" classname="testbench" file="/home/user/test/testbench.py" lineno="370" time="0.00032520294189453125" sim_time_ns="10.000999999999976" ratio_time="30753.104328445675" />
+    <testcase name="test22" classname="testbench" file="/home/user/test/testbench.py" lineno="388" time="0.00039505958557128906" sim_time_ns="10.001000000000005" ratio_time="25315.168560048292" />
+  </testsuite>
+</testsuites>
